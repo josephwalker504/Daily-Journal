@@ -1,4 +1,13 @@
 body {
+    background-color: darkgray;
     display: flex;
     flex-direction: column;
+}
+
+input {
+    background-color: papayawhip;
+}
+
+select {
+    background-color: papayawhip;
 }
